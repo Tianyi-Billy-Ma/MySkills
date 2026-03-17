@@ -1,16 +1,16 @@
 # MySkills
 
-Personal skills collection for AI automation.
+Personal skills collection for AI agents.
 
 ## Installation
 
 ```bash
-npx @tianyima/skills
+npx skills add Tianyi-Billy-Ma/MySkills
 ```
 
 ## Usage
 
-Skills will be installed to `~/.config/opencode/skill/`
+Skills are installed via the [skills CLI](https://github.com/vercel-labs/skills) and work with OpenCode, Claude Code, Cursor, and other compatible agents.
 
 ## License
 
