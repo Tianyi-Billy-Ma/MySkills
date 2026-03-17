@@ -1,0 +1,15 @@
+{
+  "name": "@tianyima/skills",
+  "version": "1.0.0",
+  "description": "Personal skills collection",
+  "bin": {
+    "install-skills": "./bin/install.js"
+  },
+  "files": [
+    "skills",
+    "bin"
+  ],
+  "keywords": ["skills", "ai", "automation"],
+  "author": "tianyima",
+  "license": "MIT"
+}
